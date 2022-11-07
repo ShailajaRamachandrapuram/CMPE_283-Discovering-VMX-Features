@@ -1,0 +1,1 @@
+cmd_/home/shailu/Desktop/kernel/CMPE_283-Discovering-VMX-Features/assignment1/Module.symvers := sed 's/ko$$/o/' /home/shailu/Desktop/kernel/CMPE_283-Discovering-VMX-Features/assignment1/modules.order | scripts/mod/modpost -m -a  -o /home/shailu/Desktop/kernel/CMPE_283-Discovering-VMX-Features/assignment1/Module.symvers -e -i Module.symvers   -T -
