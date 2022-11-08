@@ -10,7 +10,15 @@ installed VMware Workstation on Windows 11
 
 ![vm](https://user-images.githubusercontent.com/111623287/200445428-f087cb1e-fba4-4126-a23a-0f9d3250d40d.JPG)
 
-Create a 'cmpe283' folder.create files Makefile and cmpe283-1.c
+Create a 'cmpe283' folder.
+create files 
+# Makefile 
+# assignment1-cmpe283-1.c
+
+Execute the following  commands:
+# make
+# sudo insmod assignment-cmpe283-1.ko
+# sudo dmesg
 
 Output is shown in the below screenshoot:
 
