@@ -15,9 +15,12 @@ create files
 1.Makefile 
 2.assignment1-cmpe283-1.c
 
-Execute the following  commands:
+run the following  commands:
+
 #make
+
 #sudo insmod assignment-cmpe283-1.ko
+
 #sudo dmesg
 
 Output is shown in the below screenshoot:
